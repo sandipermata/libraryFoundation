@@ -25,7 +25,6 @@
 		2784F0CD24E9152E009118A5 /* Roboto-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 2784F0BF24E9152E009118A5 /* Roboto-Bold.ttf */; };
 		2784F0CE24E9152E009118A5 /* Raleway-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 2784F0C024E9152E009118A5 /* Raleway-Bold.ttf */; };
 		2784F0D424E91540009118A5 /* UserDefaultHelper.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2784F0D024E91540009118A5 /* UserDefaultHelper.swift */; };
-		2784F0D524E91540009118A5 /* BaseViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2784F0D124E91540009118A5 /* BaseViewController.swift */; };
 		2784F0D624E91540009118A5 /* loadFonts.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2784F0D224E91540009118A5 /* loadFonts.swift */; };
 		2784F0D724E91540009118A5 /* VariableLabel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2784F0D324E91540009118A5 /* VariableLabel.swift */; };
 /* End PBXBuildFile section */
@@ -50,7 +49,6 @@
 		2784F0BF24E9152E009118A5 /* Roboto-Bold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Roboto-Bold.ttf"; sourceTree = "<group>"; };
 		2784F0C024E9152E009118A5 /* Raleway-Bold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Raleway-Bold.ttf"; sourceTree = "<group>"; };
 		2784F0D024E91540009118A5 /* UserDefaultHelper.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UserDefaultHelper.swift; sourceTree = "<group>"; };
-		2784F0D124E91540009118A5 /* BaseViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BaseViewController.swift; sourceTree = "<group>"; };
 		2784F0D224E91540009118A5 /* loadFonts.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = loadFonts.swift; sourceTree = "<group>"; };
 		2784F0D324E91540009118A5 /* VariableLabel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = VariableLabel.swift; sourceTree = "<group>"; };
 		3D3E86D136A268D3A4D5A5DA /* Pods_libraryFoundation.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_libraryFoundation.framework; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -126,7 +124,6 @@
 			isa = PBXGroup;
 			children = (
 				2784F0D024E91540009118A5 /* UserDefaultHelper.swift */,
-				2784F0D124E91540009118A5 /* BaseViewController.swift */,
 				2784F0D224E91540009118A5 /* loadFonts.swift */,
 				2784F0D324E91540009118A5 /* VariableLabel.swift */,
 			);
@@ -273,7 +270,6 @@
 				2784F0D624E91540009118A5 /* loadFonts.swift in Sources */,
 				2784F0D424E91540009118A5 /* UserDefaultHelper.swift in Sources */,
 				2784F0B124E9143A009118A5 /* networkService.swift in Sources */,
-				2784F0D524E91540009118A5 /* BaseViewController.swift in Sources */,
 				2784F0D724E91540009118A5 /* VariableLabel.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
